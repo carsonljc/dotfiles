@@ -10,6 +10,7 @@ call plug#begin('~/.vim/plugged')
 Plug 'tomasr/molokai'
 Plug 'itchyny/lightline.vim'
 Plug 'bling/vim-bufferline'
+Plug 'jiangmiao/auto-pairs'
 call plug#end()
 
 "---- Aesthetic configs ----
